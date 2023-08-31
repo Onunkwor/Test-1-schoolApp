@@ -83,7 +83,7 @@ const closeClickHandler = () => {
 };
 
 // Initial call to handleButtonVisibility
-// handelButtonVisibility();
+handelButtonVisibility();
 
 // Attach a resize event listener to update button visibility
 window.addEventListener("resize", handelButtonVisibility);
