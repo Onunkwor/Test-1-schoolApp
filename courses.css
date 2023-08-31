@@ -1,0 +1,72 @@
+.courses {
+  margin-top: 1rem;
+}
+.a-4 {
+  transition-delay: 600ms;
+}
+.a-5 {
+  transition-delay: 300ms;
+}
+.a-6 {
+  transition-delay: 100ms;
+}
+.a-7 {
+  transition-delay: 600ms;
+}
+.a-8 {
+  transition-delay: 300ms;
+}
+.a-9 {
+  transition-delay: 100ms;
+}
+.a-10 {
+  transition-delay: 600ms;
+}
+.a-11 {
+  transition-delay: 300ms;
+}
+.a-12 {
+  transition-delay: 100ms;
+}
+.a-13 {
+  transition-delay: 600ms;
+}
+.a-14 {
+  transition-delay: 300ms;
+}
+.a-15 {
+  transition-delay: 100ms;
+}
+.a-16 {
+  transition-delay: 600ms;
+}
+.a-17 {
+  transition-delay: 300ms;
+}
+.a-18 {
+  transition-delay: 100ms;
+}
+/* ============ media query ================ */
+@media screen and (max-width: 1024px) {
+  .a-5 {
+    transition-delay: 200ms;
+  }
+  .a-7 {
+    transition-delay: 200ms;
+  }
+  .a-9 {
+    transition-delay: 200ms;
+  }
+  .a-11 {
+    transition-delay: 200ms;
+  }
+  .a-13 {
+    transition-delay: 200ms;
+  }
+  .a-15 {
+    transition-delay: 200ms;
+  }
+  .a-17 {
+    transition-delay: 200ms;
+  }
+}
